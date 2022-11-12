@@ -1,0 +1,692 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"tra",
+				"transform\tproperty"
+			],
+			[
+				"ea",
+				"ease-in"
+			],
+			[
+				"fos",
+				"font-size\tproperty"
+			],
+			[
+				"BRRA",
+				"border-radius\tproperty"
+			],
+			[
+				"ma",
+				"margin-left\tproperty"
+			],
+			[
+				"sp",
+				"space-around\tjustify-content"
+			],
+			[
+				"trans",
+				"transition\tproperty"
+			],
+			[
+				"s",
+				"scale()\ttransform"
+			],
+			[
+				"fs",
+				"font-style\tproperty"
+			],
+			[
+				"tr",
+				"translate()\ttransform"
+			],
+			[
+				"box",
+				"box-shadow\tproperty"
+			],
+			[
+				"sc",
+				"scale()\ttransform"
+			],
+			[
+				"animation",
+				"animation\tproperty"
+			],
+			[
+				"margi",
+				"margin-bottom\tproperty"
+			],
+			[
+				"li",
+				"linear"
+			],
+			[
+				"anima",
+				"animation\tproperty"
+			],
+			[
+				"bor",
+				"border-left\tproperty"
+			],
+			[
+				"bo",
+				"border-bottom\tproperty"
+			],
+			[
+				"border",
+				"border-top\tproperty"
+			],
+			[
+				"tex",
+				"text-transform\tproperty"
+			],
+			[
+				"eas",
+				"ease-in"
+			],
+			[
+				"te",
+				"text-shadow\tproperty"
+			],
+			[
+				"marg",
+				"margin\tproperty"
+			],
+			[
+				"b",
+				"background\tproperty"
+			],
+			[
+				"a",
+				"auto\tmargin"
+			],
+			[
+				"fo",
+				"font-weight\tproperty"
+			],
+			[
+				"imag",
+				"imagek"
+			],
+			[
+				"animation-d",
+				"animation-delay\tproperty"
+			],
+			[
+				"box-s",
+				"box-shadow\tproperty"
+			],
+			[
+				"flex-",
+				"flex-direction\tproperty"
+			],
+			[
+				"font",
+				"font-size\tproperty"
+			],
+			[
+				"ba",
+				"background\tproperty"
+			],
+			[
+				"fon",
+				"font-size\tproperty"
+			],
+			[
+				"margin",
+				"margin-left\tproperty"
+			],
+			[
+				"margin-",
+				"margin-top\tproperty"
+			],
+			[
+				"col",
+				"column\tflex-direction"
+			],
+			[
+				"ovwe",
+				"overflow\tproperty"
+			],
+			[
+				"u",
+				"url()\tbackground-image"
+			],
+			[
+				"trs",
+				"transform\tproperty"
+			],
+			[
+				"rg",
+				"rgba()\tbackground"
+			],
+			[
+				"na",
+				"navbar"
+			],
+			[
+				"min",
+				"min-width\tproperty"
+			],
+			[
+				"hi",
+				"himalayan2f"
+			],
+			[
+				"fl",
+				"flex-basis\tproperty"
+			],
+			[
+				"bac",
+				"background\tproperty"
+			],
+			[
+				"pa",
+				"padding\tproperty"
+			],
+			[
+				"padd",
+				"padding\tproperty"
+			],
+			[
+				"backgro",
+				"background\tproperty"
+			],
+			[
+				"contac",
+				"Contact"
+			],
+			[
+				"p",
+				"placeholder\tAttr"
+			],
+			[
+				"border-r",
+				"border-radius\tproperty"
+			],
+			[
+				"h",
+				"height\tproperty"
+			],
+			[
+				"background-c",
+				"background-color\tproperty"
+			],
+			[
+				"pad",
+				"padding\tproperty"
+			],
+			[
+				"paddi",
+				"padding-top\tproperty"
+			],
+			[
+				"m",
+				"margin-bottom\tproperty"
+			],
+			[
+				"im",
+				"important"
+			],
+			[
+				"r",
+				"royal"
+			],
+			[
+				"backgr",
+				"background-position\tproperty"
+			],
+			[
+				"img",
+				"img-fluid"
+			],
+			[
+				"st",
+				"sticky\tposition"
+			],
+			[
+				"op",
+				"ope"
+			],
+			[
+				"get",
+				"getElementById"
+			],
+			[
+				"opr",
+				"opr1"
+			],
+			[
+				"ge",
+				"getElementById"
+			],
+			[
+				"getEle",
+				"getElementsByClassName"
+			],
+			[
+				"va",
+				"value"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"do",
+				"document"
+			],
+			[
+				"al",
+				"alert"
+			],
+			[
+				"l",
+				"log"
+			],
+			[
+				"co",
+				"cover\tbackground-size"
+			],
+			[
+				"mar",
+				"margin\tproperty"
+			],
+			[
+				"fle",
+				"flex-wrap\tproperty"
+			],
+			[
+				"menu",
+				"menulist"
+			],
+			[
+				"men",
+				"menulist"
+			],
+			[
+				"t",
+				"translateX()\ttransform"
+			],
+			[
+				"inlin",
+				"inline-block\tdisplay"
+			],
+			[
+				"font-s",
+				"font-size\tproperty"
+			],
+			[
+				"btn",
+				"btn-success"
+			],
+			[
+				"mrgin",
+				"margin-left\tproperty"
+			],
+			[
+				"text",
+				"text-align\tproperty"
+			],
+			[
+				"ve",
+				"vertical-rl\twriting-mode"
+			],
+			[
+				"backg",
+				"background-size\tproperty"
+			],
+			[
+				"fil",
+				"filter\tproperty"
+			],
+			[
+				"ali",
+				"align-items\tproperty"
+			],
+			[
+				"spa",
+				"space-between\tjustify-content"
+			],
+			[
+				"tec",
+				"text-decoration\tproperty"
+			],
+			[
+				"di",
+				"display\tproperty"
+			],
+			[
+				"inli",
+				"inline-block\tdisplay"
+			],
+			[
+				"so",
+				"Social-icons"
+			],
+			[
+				"text-a",
+				"text-align\tproperty"
+			],
+			[
+				"font-",
+				"font-family\tproperty"
+			],
+			[
+				"form",
+				"form-control"
+			],
+			[
+				"wid",
+				"width\tproperty"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 8507,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "css/style.css",
+			"settings":
+			{
+				"buffer_size": 24034,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"ins",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/STC/Desktop/K PORTFOLIO",
+		"/C/Users/STC/Desktop/K PORTFOLIO/css",
+		"/C/Users/STC/Desktop/K PORTFOLIO/images"
+	],
+	"file_history":
+	[
+		"/C/Users/STC/Desktop/K PORTFOLIO/css/style.css",
+		"/C/Users/STC/Desktop/website folder/Learning new/Index.html",
+		"/C/Users/STC/Desktop/website folder/Bootstrap/Images/css/style.css",
+		"/C/Users/STC/Desktop/K PORTFOLIO/index.html",
+		"/C/Users/STC/Desktop/website folder/DAMN HEAD/css/style.css",
+		"/C/Users/STC/Desktop/K PORTFOLIO/index.sublime-project",
+		"/C/Users/STC/Desktop/Learning new/Index.html",
+		"/C/Users/STC/Desktop/Learning new/contact.html",
+		"/C/Users/STC/Desktop/Learning new/about.html",
+		"/C/Users/STC/Desktop/Learning new/models.html",
+		"/C/Users/STC/Desktop/Learning new/css/style.css",
+		"/C/Users/STC/Desktop/Learning new/gs.html",
+		"/C/Users/STC/Desktop/javascript/Index.html",
+		"/C/Users/STC/Desktop/javascript/k.html",
+		"/C/Users/STC/Desktop/javascript/css/style.css",
+		"/C/Users/STC/Desktop/javascript/js/myscript.js",
+		"/C/Users/STC/Desktop/Kawshiik Chakma/css/style.css",
+		"/C/Users/STC/Desktop/Kawshiik Chakma/Index.html",
+		"/C/Users/STC/Desktop/ArikaMeem/Index.html",
+		"/C/Users/STC/Desktop/ArikaMeem/Css/style.css",
+		"/C/Users/STC/Desktop/ke 2/css/style.css",
+		"/C/Users/STC/Desktop/ArikaMeem/Images/290095639_567325014967369_6408678571693510242_n.jpg",
+		"/C/Users/STC/Desktop/New folder (2)/index.html",
+		"/C/Users/STC/Desktop/New folder (2)/css/style.css",
+		"/C/Users/STC/Desktop/Bootstrap/css/style.css",
+		"/C/Users/STC/Desktop/Bootstrap/Index.html",
+		"/C/Users/STC/Desktop/DAMN HEAD/css/style.css",
+		"/C/Users/STC/Desktop/underdstanding bootstrap/Index.html",
+		"/C/Users/STC/Desktop/underdstanding bootstrap/css/bootstrap.min.css",
+		"/C/Users/STC/Desktop/DAMN HEAD/Index.html",
+		"/C/Users/STC/Desktop/ke 2/Index.html",
+		"/C/Users/STC/Desktop/DAMN HEAD/css/font-awesome.min.css",
+		"/C/Users/STC/Desktop/k 2/Index.html",
+		"/C/Users/STC/Desktop/k 2/css/style.css",
+		"/C/Users/STC/Desktop/k 2/images/illustration-1.svg",
+		"/C/Users/STC/Desktop/New folder/css/style.css",
+		"/C/Users/STC/Desktop/New folder/Index.html",
+		"/C/Users/STC/Desktop/ewshik works/Css/style.css",
+		"/C/Users/STC/Desktop/ewshik works/Index.html",
+		"/C/Users/STC/Desktop/kllkl/Index.html",
+		"/C/Users/STC/Desktop/kllkl/css/style.css",
+		"/C/Users/STC/Desktop/kyu/index.html",
+		"/C/Users/STC/Desktop/kyu/css/style.css"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"FEB23D",
+			"%);",
+			"%\n",
+			";\n",
+			"%\n",
+			"headings",
+			"%\n",
+			"%;",
+			";\n",
+			"  \t\t\t\t\t\t\n",
+			">\n",
+			"case",
+			" ></",
+			"form"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 8507,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								521,
+								521
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "css/style.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 24034,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								23884,
+								23884
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 25683.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 39.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"css\\style.css"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 206.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
